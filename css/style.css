@@ -59,5 +59,4 @@ html,body {
 .wrapper span:last-child{
     filter:blur(20px);
 }
-@media only screen and (max-width:768px){
     
